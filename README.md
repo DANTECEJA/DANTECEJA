@@ -38,6 +38,7 @@ I am a passionate final-year **Systems Engineering** student at the Tecnológico
 ### Development Tools:
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -53,10 +54,13 @@ I am a passionate final-year **Systems Engineering** student at the Tecnológico
 ---
 
 ## 📫 Contact:
-- **Email:** [cejadali@hotmail.com](mailto:cejadali@hotmail.com)
-- **LinkedIn:** [linkedin.com/in/dante-dali-ceja-garcia](https://www.linkedin.com/in/dante-dali-ceja-garcia-b136ba269)
-- **GitHub:** [github.com/DANTECEJA](https://github.com/DANTECEJA)
+## 🌐 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dante-dali-ceja-garcia)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DANTECEJA)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cejadali@hotmail.com)
 
 ---
 
 Thank you for visiting my profile! 🚀
+
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
