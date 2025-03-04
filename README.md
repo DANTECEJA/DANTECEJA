@@ -16,9 +16,9 @@ I am a passionate final-year **Systems Engineering** student at the Tecnológico
   - English: Fluent (able to work and communicate effectively)
 - ⚡ **Fun Facts:** 
   - I’m passionate about cars 🚗 and MotorSport.
-  - I enjoy spending time at the gym 🏋️‍♂️.
-  - I like nature and really enjoy doing Hickig 🥾🥾🏔️.
-  - I love animals specially cats 🐈
+  - I enjoy spending time at the Gym 🏋️‍♂️.
+  - I like nature and really enjoy doing Hikig 🥾🥾🏔️.
+  - I love animals specially Cats 🐈
 
 ---
 
