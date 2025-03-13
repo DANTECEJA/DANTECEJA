@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Dante Dali Ceja García!
 
-I am a passionate final-year **Systems Engineering** student at the Tecnológico Nacional de México, Campus Morelia. I love programming, especially web development and **Full Stack** solutions. Additionally, I have experience leading projects and developing modern, functional applications.
+I am a passionate final-year **Software Engineering** student at the Tecnológico Nacional de México, Campus Morelia. I love programming, especially web development and **Full Stack** solutions. Additionally, I have experience leading projects and developing modern, functional applications.
 
 ---
 
 ## 🚀 About Me:
-- 🎓 **Education:** Systems Engineering with a focus on web development and Full Stack software.
+- 🎓 **Education:** Software Engineering with a focus on web development and Full Stack software.
 - 💼 **Experience:** 
   - Developed a functional educational web platform in a team, currently used by the university community.
   - Leadership roles as **Project Manager** in academic team projects.
@@ -33,6 +33,7 @@ I am a passionate final-year **Systems Engineering** student at the Tecnológico
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ### Web Development:
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -42,6 +43,8 @@ I am a passionate final-year **Systems Engineering** student at the Tecnológico
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![MuleSoft](https://img.shields.io/badge/MuleSoft-003D79?style=for-the-badge&logo=mulesoft&logoColor=white)
+![Alfresco](https://img.shields.io/badge/Alfresco-006B3F?style=for-the-badge&logo=alfresco&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -67,3 +70,5 @@ I am a passionate final-year **Systems Engineering** student at the Tecnológico
 Thank you for visiting my profile! 🚀
 
 ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![Hiking GIF](https://media.giphy.com/media/Q1dZ9V1S5Ymvg6g80n/giphy.gif)
+
