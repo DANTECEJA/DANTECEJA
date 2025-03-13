@@ -70,5 +70,5 @@ I am a passionate final-year **Software Engineering** student at the Tecnológic
 Thank you for visiting my profile! 🚀
 
 ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-![Hiking GIF](https://media.giphy.com/media/Q1dZ9V1S5Ymvg6g80n/giphy.gif)
+![Hiking GIF](https://media.giphy.com/media/64amJiVCPBxhrSdODO/giphy.gif?cid=790b7611vtk37qin8ohckqi7qwfevfpi9yjn5mzw28dqojse&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
