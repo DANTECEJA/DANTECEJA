@@ -67,8 +67,7 @@ I build **Full Stack** web applications with a strong focus on **clean UI, solid
 ---
 
 ## 📊 GitHub Stats
-![Dante's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DANTECEJA&show_icons=true&theme=radical)
-
+![Dante's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DANTECEJA&show_icons=true&theme=radical)
 ---
 
 ## 🌐 Connect with Me
