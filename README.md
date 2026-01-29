@@ -24,10 +24,10 @@ const dante = {
   philosophy: "Clean code, solid architecture, real-world impact",
   
   currentlyWorking: {
-    project: "Educational Web Platform",
-    role: "Lead Developer & Project Manager",
-    impact: "Used daily by university community",
-    stack: ["React", "Node.js", "TypeScript"]
+    status: "Full Stack Developer",
+    role: "Professional Software Development",
+    focus: ["Enterprise Applications", "Real-world Solutions"],
+    stack: ["React", "Node.js", "Modern Web Technologies"]
   },
   
   whenNotCoding: ["Cars & MotorSport 🏎️", "Gym 💪", "Hiking 🏔️", "Cats 🐈"],
@@ -61,7 +61,7 @@ Code is art. I obsess over clean architecture, intuitive interfaces, and user ex
     <td align="center" width="50%">
       
 ### 📊 **Project Leadership**
-Led teams, managed timelines, and delivered real-world products. I bridge the gap between vision and execution, ensuring projects ship on time and exceed expectations.
+Led development teams and managed real-world products from concept to deployment. Currently working professionally as a Full Stack Developer, building enterprise solutions that impact users daily.
 
 </td>
     <td align="center" width="50%">
@@ -140,10 +140,12 @@ Always learning, always building. Currently diving deep into cloud computing, di
 
 ## 💼 Featured Projects
 
-> **Coming Soon** - Currently organizing my best work for showcase. Check back soon for case studies on:
-> - 🎓 Educational Platform (React + Node.js + TypeScript)
-> - 🔧 Internal Tools & Automation Scripts
-> - 🌐 Full-Stack Web Applications
+> **Highlights from my journey:**
+> - 🎓 **Educational Web Platform** - Led development team as Project Manager, built with Laravel + PHP, actively used by university community
+> - ⚡ **CFE Internship** - Software Engineering internship at Comisión Federal de Electricidad, developed enterprise systems with Angular
+> - 💼 **Professional Experience** - Currently working as Full Stack Developer with React, building production-grade applications and contributing to real-world solutions
+
+*More projects and case studies coming soon...*
 
 <br/>
 
